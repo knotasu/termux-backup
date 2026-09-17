@@ -1,0 +1,5 @@
+core_data='/data/data/com.termux/files/home/.local/share/core-termux'
+core_cache='/data/data/com.termux/files/home/.cache/core-termux'
+core_config='/data/data/com.termux/files/home/.config/core-termux'
+core_source='/data/data/com.termux/files/home/.local/share/core-termux'
+core_tool_data='/data/data/com.termux/files/home/.local/share/core-termux-data'
